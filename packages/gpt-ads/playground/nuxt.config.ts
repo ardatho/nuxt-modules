@@ -4,7 +4,7 @@ export default defineNuxtConfig({
    * Google Publisher Tags Ads module configuration
    */
   gptAds: {
-    networkCode: 7851837,
+    networkCode: null,
     responsive: true,
     collapseEmptyDivs: false,
     emptyClass: '',
