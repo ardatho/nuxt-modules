@@ -1,8 +1,8 @@
 {
-  "name": "my-module",
+  "name": "@ardatho/nuxt-gptads",
   "version": "1.0.0",
-  "description": "My new Nuxt module",
-  "repository": "your-org/my-module",
+  "description": "Display easily some ads on your Nuxt.js application",
+  "repository": "https://github.com/ardatho/nuxt-modules",
   "license": "MIT",
   "type": "module",
   "exports": {

@@ -1,8 +1,8 @@
 {
-  "name": "multisite",
+  "name": "@ardatho/nuxt-multisite",
   "version": "1.0.0",
-  "description": "My new Nuxt module",
-  "repository": "@ardatho/multisite",
+  "description": "Handle multisite config simply with nuxt",
+  "repository": "https://github.com/ardatho/nuxt-modules",
   "license": "MIT",
   "type": "module",
   "exports": {
