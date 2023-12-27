@@ -1,0 +1,201 @@
+{
+  "RegistrationNewsletter": {
+    "title1": "Recycling Product News",
+    "section1_1": "Recycling Product News covers the latest industry news, product information, and new equipment technologies for the solid waste and recycling industry.",
+    "section1_2": "Extensive coverage includes the following equipment sectors: recycling, waste management, composting, demolition, hauling, and more.",
+    "title2": "What You Get",
+    "section2_1": "Our newsletter includes information about newly released equipment, and technologies for the solid waste and recycling industry.",
+    "section2_2": "You will also get up-to-date industry news, and product introductions, along with information about manufacturers, distributors, and rental outlets."
+  },
+  "AboutUs": {
+    "subtitle": "Targeted Publications for the Construction Industry",
+    "section1_1": "About Recycling Product News",
+    "section1_2": "Recycling Product News covers the latest industry news, product information and new equipment technologies for the solid waste and recycling industry. Extensive coverage includes the following sectors: scrap, demolition, waste management, organics and hauling.<br><br><a href='https://www.recyclingproductnews.com/'>RecyclingProductNews.com</a> is the online resource for products, equipment and technologies for the recycling and solid waste industry. On this site you will find industry news, the latest in product and equipment innovations, new technologies, applications and a comprehensive directory of manufacturers and distributors.",
+    "section2_1": "About Baum Publications Ltd.",
+    "section2_2": "Baum Publications Ltd. is a business to business publisher and industrial marketing services company. Our dedicated team of experienced editors, production, marketing and development staff work with clients on all their marketing needs. We are at the forefront of the construction and recycling industries. We reach tens of thousands of industry decision makers that rely on our magazines, websites, newsletters, social media and advertising networks to deliver news, innovations and trends shaping the future of their industries."
+  },
+  "Meta": {
+    "home": {
+      "title": "Breaking News | Recycling Product News",
+      "description": "Recycling products news, videos and products for owners, operators, and dealers in recycling, waste management, composting, demolition, hauling, and more."
+    },
+    "author": {
+      "title": "{author_name} | Recycling Product News",
+      "articles": "Articles by {author_name} | Recycling Product News",
+      "description": "Read all the latest articles by {author_name}, {job_title} of Recycling Product News.",
+      "description_no_title": "Read all the latest articles by {author_name} on Recycling Product News."
+    },
+    "article": {
+      "section": {
+          "listing": {
+            "title": "Latest News, Videos, and Headlines | Recycling Product News",
+            "description": "All the breaking news, videos and product reviews in the recycling, waste management, composting, demolition, hauling, and more."
+          },
+          "videos": {
+            "title": "Latest Videos | Recycling Product News",
+            "description": "Videos of new products, construction projects, and professional reviews of recycling equipment. Everything on recycling, waste management, and more."
+          },
+          "industry_news": {
+            "title": "Industry News, Videos, and Headlines | Recycling Product News",
+            "description": "Get all the latest industry news for recycling, waste management, composting, demolition, hauling, and more."
+          },
+          "article_topic": {
+            "title": "{article_topic} News, Videos, and Headlines | Recycling Product News",
+            "description": "{article_topic} breaking news, videos, headlines, and editorials on Recycling Product News."
+          },
+          "product_category": {
+            "title": "Top News on {product_category} | Recycling Product News",
+            "description": "Get all the latest news, reviews, projects, sale and rental information on {product_category} on Recycling Product News."
+          },
+          "company": {
+            "title": "Latest {company_title} News | Recycling Product News",
+            "description": "Get all the latest news on {company_title} on Recycling Product News, including editorials, recent product releases and reviews."
+          },
+          "company_type": {
+            "title": "Latest News on {company_type} Companies | Recycling Product News",
+            "description": "Get all the latest news on {company_type} companies on Recycling Product News."
+          },
+          "search_results": {
+            "title": "\"{query}\" Articles Search Results | Recycling Product News",
+            "description": "News, headlines, and editorials matching \"{query}\"."
+          }
+      }
+    },
+    "video": {
+      "section": {
+        "article_topic": {
+          "title": "{article_topic} Top Videos | Recycling Product News",
+          "description": "View all the latest videos about {article_topic} on Recycling Product News."
+        },
+        "product_category": {
+          "title": "Top Videos on {product_category} | Recycling Product News",
+          "description": "Watch all videos, commercials, multimedia content about {product_category} on Recycling Product News."
+        },
+        "company": {
+          "title": "Videos about {company_title} | Recycling Product News",
+          "description": "Watch all the latest videos on {company_title} on Recycling Product News, including commercials, tutorials, recent product releases and reviews."
+        },
+        "company_type": {
+          "title": "Latest Videos on {company_type} Companies | Recycling Product News",
+          "description": "Watch all the latest videos on {company_type} on Recycling Product News."
+        }
+      }
+    },
+    "product": {
+      "section": {
+        "listing": {
+          "title": "Recycling Industry Products and Specs | Recycling Product News",
+          "description": "Compare sorting systems, grinders, handlers, crushers, from top companies : Sims Recycling, SICON, Machinex, TOMRA, Kal Tire, Terracycle, Eriez, Gerdau..."
+        },
+        "product_category": {
+          "title":"Top {product_category} Products and Specs | Recycling Product News",
+          "description": "Find the best {product_category} - product details, specs, reviews, related news, videos, and company profiles to help with your next rental or purchase."
+        },
+        "article_topic": {
+          "title": "{article_topic} Products and Specs | Recycling Product News",
+          "description": "Find the top {article_topic} product details, specs, reviews, related news, videos, and company profiles to help with your next rental or purchase."
+        },
+        "company": {
+          "title": "{company_title} Products and Specs | Recycling Product News",
+          "description": "Find the best {company_title} products - information, specs, reviews, related news, videos, and company profile to help with your next rental or purchase."
+        },
+        "search_results": {
+          "title": "\"{query}\" Search Results in Products | Recycling Product News",
+          "description": "Find all the products matching \"{query}\". See their information, specs, reviews, related news, videos, and company profile."
+        }
+      },
+      "detail": {
+        "title": "{company_title} {product_title} {product_category} | Recycling Product News",
+        "title_custom": "{custom_title} | Recycling Product News",
+        "description": "{product_title} {company_title} {product_category}: product details, specs, related news, and videos."
+      }
+    },
+    "company" : {
+      "section": {
+        "listing": {
+          "title": "Recycling and Waste Management Company Directory | Recycling Product News",
+          "description": "Manufacturers, contractors, equipment dealers, distributors, rental companies - news, videos, and products in the recycling and waste management industry."
+        },
+        "product_category": {
+          "title": "Top {product_category} Companies | Recycling Product News",
+          "description": "Find all companies manufacturing, distributing or renting {product_category} on Recycling Product News."
+        },
+        "company_type": {
+          "title": "Top {company_type} Companies | Recycling Product News",
+          "description": "Directory of {company_type} companies on Recycling Product News, the most relevant companies in the industry."
+        },
+        "article_topic": {
+          "title": "Top {article_topic} Companies | Recycling Product News",
+          "description": "Browse our directory of {article_topic} companies. Find company profiles, products, related news and videos."
+        },
+        "search_results": {
+          "title": "\"{query}\" Search Results in Companies| Recycling Product News",
+          "description": "Find all the companies matching search \"{query}\". Browse their profiles, products, related news and videos."
+        }
+      },
+      "detail": {
+        "title": "{company_title} Company Profile | Recycling Product News",
+        "title_custom": "{custom_title} | Recycling Product News",
+        "description": "{company_title} company profile. See its contact info, top products, plus all related news and videos."
+      }
+    },
+    "topics": {
+      "title": "{page_title} | Recycling Product News",
+      "description": "Browse Recycling Product News's unique repertoire of {content_type}, conveniently organized by {content_filter} just for you."
+    },
+    "search": {
+      "title": "Search | Recycling Product News",
+      "description": "Search for recycling and waste management equipment news, products, and company profiles on Recycling Product News."
+    },
+    "search_results": {
+      "title": "Search Results for \"{query}\" | Recycling Product News",
+      "description": "Results for \"{query}\", find articles, products, and company profiles in recycling, waste management, composting, demolition, hauling, and more."
+    },
+    "magazine": {
+      "detail": {
+        "title": "Get our Free Magazine | Recycling Product News",
+        "description": "Subscribe now to our free Recycling Product News magazine: recycling and waste management news, products and equipment reviews right at your doorstep."
+      },
+      "subscription": {
+        "title": "Subscribe to our Free Magazine | Recycling Product News",
+        "description": "Free subscription to our Recycling Product News magazine: industry news, product introductions, and company profiles in the recycling and waste management industries."
+      },
+      "unsubscription": {
+        "title": "Magazine Subscription | Recycling Product News",
+        "description": "Manage your subscription to our Recycling Product News magazine, the latest recycling and waste management equipment news, products and equipment reviews."
+      },
+      "confirmation": {
+        "title": "Subscription Confirmation | Recycling Product News",
+        "description": "Thank you for subscribing to Recycling Product News. You will soon receive the latest recycling and waste management news, products and equipment reviews!"
+      }
+    },
+    "newsletter": {
+      "title": "Newsletter Registration | Recycling Product News",
+      "description": "Register to our free Recycling Product News newsletter to get the latest industry news, product information, and equipment innovations right in your inbox."
+    },
+    "rss": {
+      "title": "RSS Feeds | Recycling Product News",
+      "description": "Browse Recycling Product News's RSS feeds - news, videos, products, and companies for the recycling and waste management industries."
+    },
+    "sitemap": {
+      "title": "Site Map | Recycling Product News",
+      "description": "Browse Recycling Product News' Site Map."
+    },
+    "privacy": {
+      "title": "Privacy Statement | Recycling Product News",
+      "description": "Find our Privacy Policy here. It describes how your personal information is collected, used, or shared when you visit Recycling Product News."
+    },
+    "about": {
+      "title": "About Us | Recycling Product News",
+      "description": "Recycling Product News covers the industry news, product information and new equipment technologies for the recycling and waste management."
+    },
+    "advertise": {
+      "title": "Advertise With Us | Recycling Product News",
+      "description": "Reach your recycling and waste market with targeted opportunities: sponsored content, custom placements and ad units, newsletter campaigns, eblasts, and more."
+    },
+    "notifications": {
+      "title": "Web Notifications | Recycling Product News",
+      "description": "What are web notifications? How to activate and deactivate notifications."
+    }
+  }
+}

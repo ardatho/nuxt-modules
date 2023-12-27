@@ -1,0 +1,201 @@
+{
+  "RegistrationNewsletter": {
+    "title1": "Heavy Equipment Guide",
+    "section1_1": "Heavy Equipment Guide covers the latest industry news, product information, and new equipment technologies for the Canadian construction, roadbuilding, and aggregates markets.",
+    "section1_2": "Extensive coverage includes the following equipment sectors: earthmoving, asphalt paving, road, and bridge construction, concrete construction, aggregates, cranes, trucks, equipment management, light, and compact equipment, and the rental market.",
+    "title2": "What You Get",
+    "section2_1": "Our newsletter includes information about newly released equipment, and technologies for the construction, roadbuilding, and aggregates industries.",
+    "section2_2": "You will also get up-to-date industry news, and product introductions, along with information about manufacturers, distributors, and rental outlets."
+  },
+  "AboutUs": {
+    "subtitle": "Targeted Publications for the Construction Industry",
+    "section1_1": "About Heavy Equipment Guide",
+    "section1_2": "Heavy Equipment Guide covers the latest industry news, product information and new equipment technologies for the Canadian construction, roadbuilding and aggregates markets. Extensive coverage including the following equipment sectors: earthmoving, asphalt paving, roads and bridges construction, concrete construction, aggregates, cranes, trucks, equipment management, light and compact equipment, and the rental market.<br><br>On <a href='https://www.heavyequipmentguide.ca/'>HeavyEquipmentGuide.ca</a> you will find industry news; the latest product introductions; a comprehensive directory of manufacturers, distributors and rental outlets; and a product  database of equipment specifications.",
+    "section2_1": "About Baum Publications Ltd.",
+    "section2_2": "Baum Publications Ltd. is a business to business publisher and industrial marketing services company. Our dedicated team of experienced editors, production, marketing and development staff work with clients on all their marketing needs. We are at the forefront of the construction and recycling industries. We reach tens of thousands of industry decision makers that rely on our magazines, websites, newsletters, social media and advertising networks to deliver news, innovations and trends shaping the future of their industries."
+  },
+  "Meta": {
+    "home": {
+      "title": "Construction Equipment Headlines | Heavy Equipment Guide",
+      "description": "Heavy equipment news, videos and products for owners, operators, and dealers in construction equipment, earthmoving, roadbuilding, trucking, and aggregates."
+    },
+    "author": {
+      "title": "{author_name} | Heavy Equipment Guide",
+      "articles": "Articles by {author_name} | Heavy Equipment Guide",
+      "description": "Read all the latest articles by {author_name}, {job_title} of Heavy Equipment Guide.",
+      "description_no_title": "Read all the latest articles by {author_name} on Heavy Equipment Guide."
+    },
+    "article": {
+      "section": {
+        "listing": {
+          "title": "Latest News, Videos, and Headlines | Heavy Equipment Guide",
+          "description": "All the breaking news, videos and product reviews in the construction equipment, earthmoving, roadbuilding, trucking, and aggregates industries."
+        },
+        "videos": {
+          "title": "Latest Videos | Heavy Equipment Guide",
+          "description": "Videos of new products, construction projects, and professional reviews of heavy equipment. Everything on trucks, excavators, heavy machinery, and more."
+        },
+        "industry_news": {
+          "title": "Industry News, Videos, and Headlines | Heavy Equipment Guide",
+          "description": "Get all the latest industry news on the construction equipment, earthmoving, trucking, roadbuilding, and more."
+        },
+        "article_topic": {
+          "title": "{article_topic} News, Videos, and Headlines | Heavy Equipment Guide",
+          "description": "{article_topic} breaking news, videos, headlines, and editorials on Heavy Equipment Guide."
+        },
+        "product_category": {
+          "title": "Top News on {product_category} | Heavy Equipment Guide",
+          "description": "Get all the latest news, reviews, projects, sale and rental information on {product_category} on Heavy Equipment Guide."
+        },
+        "company": {
+          "title": "Latest {company_title} News | Heavy Equipment Guide",
+          "description": "Get all the latest news on {company_title} on Heavy Equipment Guide, including editorials, recent product releases and reviews."
+        },
+        "company_type": {
+          "title": "Latest News on {company_type} Companies | Heavy Equipment Guide",
+          "description": "Get all the latest news on {company_type} companies on Heavy Equipment Guide."
+        },
+        "search_results": {
+          "title": "\"{query}\" Articles Search Results | Heavy Equipment Guide",
+          "description": "News, headlines, and editorials matching \"{query}\"."
+        }
+      }
+    },
+    "video": {
+      "section": {
+        "article_topic": {
+          "title": "{article_topic} Top Videos | Heavy Equipment Guide",
+          "description": "View all the latest videos about {article_topic} on Heavy Equipment Guide."
+        },
+        "product_category": {
+          "title": "Top Videos on {product_category} | Heavy Equipment Guide",
+          "description": "Watch all videos, commercials, multimedia content about {product_category} on Heavy Equipment Guide."
+        },
+        "company": {
+          "title": "Videos about {company_title} | Heavy Equipment Guide",
+          "description": "Watch all the latest videos on {company_title} on Heavy Equipment Guide, including commercials, tutorials, recent product releases and reviews."
+        },
+        "company_type": {
+          "title": "Latest Videos on {company_type} Companies | Heavy Equipment Guide",
+          "description": "Watch all the latest videos on {company_type} on Heavy Equipment Guide."
+        }
+      }
+    },
+    "product": {
+      "section": {
+        "listing": {
+          "title": "Heavy Equipment and Machinery Products and Specs | Heavy Equipment Guide",
+          "description": "Compare skid steers, compact track loaders, tires, excavators, from top companies : Kubota, Caterpillar, JCB, Manulift, Komatsu, Skyjack, Sany Equipment..."
+        },
+        "product_category": {
+          "title":"Top {product_category} Products and Specs | Heavy Equipment Guide",
+          "description": "Find the best {product_category} - product details, specs, reviews, related news, videos, and company profiles to help with your next rental or purchase."
+        },
+        "article_topic": {
+          "title": "{article_topic} Products and Specs | Heavy Equipment Guide",
+          "description": "Find the top {article_topic} product details, specs, reviews, related news, videos, and company profiles to help with your next rental or purchase."
+        },
+        "company": {
+          "title": "{company_title} Products and Specs | Heavy Equipment Guide",
+          "description": "Find the best {company_title} products - information, specs, reviews, related news, videos, and company profile to help with your next rental or purchase."
+        },
+        "search_results": {
+          "title": "\"{query}\" Search Results in Products | Heavy Equipment Guide",
+          "description": "Find all the products matching \"{query}\". See their information, specs, reviews, related news, videos, and company profile."
+        }
+      },
+      "detail": {
+        "title": "{company_title} {product_title} {product_category} | Heavy Equipment Guide",
+        "title_custom": "{custom_title} | Heavy Equipment Guide",
+        "description": "{product_title} {company_title} {product_category}: product details, specs, related news, and videos."
+      }
+    },
+    "company" : {
+      "section": {
+        "listing": {
+          "title": "Heavy Equipment Company Directory | Heavy Equipment Guide",
+          "description": "Manufacturers, contractors, equipment dealers, distributors and rental companies - profiles, news, videos, and products in the heavy construction equipment industry."
+        },
+        "product_category": {
+          "title": "Top {product_category} Companies | Heavy Equipment Guide",
+          "description": "Find all companies manufacturing, distributing or renting {product_category} on Heavy Equipment Guide."
+        },
+        "company_type": {
+          "title": "Top {company_type} Companies | Heavy Equipment Guide",
+          "description": "Directory of {company_type} companies on Heavy Equipment Guide, the most relevant companies in the industry."
+        },
+        "article_topic": {
+          "title": "Top {article_topic} Companies | Heavy Equipment Guide",
+          "description": "Browse our directory of {article_topic} companies. Find company profiles, products, related news and videos."
+        },
+        "search_results": {
+          "title": "\"{query}\" Search Results in Companies | Heavy Equipment Guide",
+          "description": "Find all the companies matching search \"{query}\". Browse their profiles, products, related news and videos."
+        }
+      },
+      "detail": {
+        "title": "{company_title} Company Profile | Heavy Equipment Guide",
+        "title_custom": "{custom_title} | Heavy Equipment Guide",
+        "description": "{company_title} company profile. See its contact info, top products, plus all related news and videos."
+      }
+    },
+    "topics": {
+      "title": "{page_title} | Heavy Equipment Guide",
+      "description": "Browse Heavy Equipment Guide's unique repertoire of {content_type}, conveniently organized by {content_filter} just for you."
+    },
+    "search": {
+      "title": "Search | Heavy Equipment Guide",
+      "description": "Search for construction equipment news, products, and company profiles on Heavy Equipment Guide."
+    },
+    "search_results": {
+      "title": "Search results for \"{query}\" | Heavy Equipment Guide",
+      "description": "Results for \"{query}\", find articles, products, and company profiles in the construction equipment, earthmoving, trucking, asphalt, concrete industries, and more."
+    },
+    "magazine": {
+      "detail": {
+        "title": "Get our Free Magazine | Heavy Equipment Guide",
+        "description": "Subscribe now to our free Heavy Equipment Guide magazine to get the latest construction equipment news, products and equipment reviews right at your doorstep."
+      },
+      "subscription": {
+        "title": "Subscribe to our Free Magazine | Heavy Equipment Guide",
+        "description": "Free subscription to our Heavy Equipment Guide magazine: industry news, product introductions, and company profiles in the heavy equipment and construction industries."
+      },
+      "unsubscription": {
+        "title": "Magazine Subscription | Heavy Equipment Guide",
+        "description": "Manage your subscription to our Heavy Equipment Guide magazine, the latest construction equipment news, products and equipment reviews."
+      },
+      "confirmation": {
+        "title": "Subscription Confirmation | Heavy Equipment Guide",
+        "description": "Thank you for subscribing to Heavy Equipment Guide. You will soon receive the latest construction equipment news, products and equipment reviews!"
+      }
+    },
+    "newsletter": {
+      "title": "Newsletter Registration | Heavy Equipment Guide",
+      "description": "Register to our free Heavy Equipment Guide newsletter to get the latest industry news, product information, and equipment innovations right in your inbox."
+    },
+    "rss": {
+      "title": "RSS Feeds | Heavy Equipment Guide",
+      "description": "Browse Heavy Equipment Guide's RSS feeds - news, videos, products, and companies for the construction, earthmoving, trucking, asphalt, and concrete industries."
+    },
+    "sitemap": {
+      "title": "Site Map | Heavy Equipment Guide",
+      "description": "Browse Heavy Equipment Guide's Site Map."
+    },
+    "privacy": {
+      "title": "Privacy Statement | Heavy Equipment Guide",
+      "description": "Find our Privacy Policy here. It describes how your personal information is collected, used, or shared when you visit Heavy Equipment Guide."
+    },
+    "about": {
+      "title": "About Us | Heavy Equipment Guide",
+      "description": "Heavy Equipment Guide covers the industry news, product information and new equipment technologies for the construction, roadbuilding and aggregates markets."
+    },
+    "advertise": {
+      "title": "Advertise With Us | Heavy Equipment Guide",
+      "description": "Reach your construction equipment market with targeted opportunities: sponsored content, custom placements and ad units, newsletter campaigns, eblasts, and more."
+    },
+    "notifications": {
+      "title": "Web Notifications | Heavy Equipment Guide",
+      "description": "What are web notifications? How to activate and deactivate notifications."
+    }
+  }
+}

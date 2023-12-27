@@ -1,0 +1,316 @@
+{
+  "Section": {
+    "products": "Products",
+    "companies": "Companies",
+    "product": "Products",
+    "company": "Companies",
+    "article": "News",
+    "video": "Videos"
+  },
+  "Author": {
+    "get_in_touch": "Get in touch at ",
+    "follow_on": "Follow on "
+  },
+  "BackToTop": {
+    "label": "Back to top"
+  },
+  "CardNewsletter": {
+    "title": "Get our newsletter",
+    "subtitle": "Insight delivered weekly to your inbox",
+    "disclaimer": "Fields marked with an asterisk (*) are mandatory",
+    "learn_more": "Learn more"
+  },
+  "CardCover": {
+    "text": "Covering the latest industry news, product information and new equipment technologies"
+  },
+  "CardNewsletterModal": {
+    "title": "Want more stories like this?",
+    "subtitle": "Join our weekly newsletter and never miss one!",
+    "disclaimer": "Fields marked with an asterisk (*) are mandatory",
+    "already_subscribed": "I'm already subscribed",
+    "learn_more": "Learn more"
+  },
+  "CardNewsletterFixed": {
+    "title": "Was this Article Useful?",
+    "title_product": "Want to learn about other products?",
+    "subtitle": "Join our newsletter and get the latest headlines delivered to you weekly",
+    "disclaimer": "Fields marked with an asterisk (*) are mandatory",
+    "already_subscribed": "I'm already subscribed",
+    "learn_more": "Learn more"
+  },
+  "CardCookieNotice": {
+    "subtitle": "We use cookies to enhance your experience.<br>By continuing to visit this site you agree to our use of cookies.",
+    "more_info": "More info",
+    "got_it": "Got it!"
+  },
+  "Signup": {
+    "title": "The latest news in your inbox",
+    "subtitle": "Get our extensive coverage for construction professionals who buy, operate, manage and maintain equipment"
+  },
+  "FormNewsletter": {
+    "email_address": "Email address *",
+    "name": "Name",
+    "country": "Select a Country",
+    "state_province": "Select a State/Province *",
+    "submit": "Register Now",
+    "success": "Thank you for subscribing to our newsletter! Check your inbox to validate your email.",
+    "error": "An error occurred, please try again."
+  },
+  "CardSubscribe": {
+    "title": "Get Our Magazine",
+    "subtitle": "Paper or Digital delivered monthly to you",
+    "submit": "Subscribe or Renew",
+    "learn_more": "Learn more"
+  },
+  "CardLeadGen": {
+    "company_message": "A message from",
+    "title": "How to get the most from your hydraulic system",
+    "text": "<p>With the right attachments in your lineup, a machine’s hydraulics allow it to become a versatile part of your crew.</p><p>Make a plan to protect the most expensive and vital components of your machine today.</p>",
+    "submit": "Get the full whitepaper"
+  },
+  "RegistrationNewsletter": {
+    "title1": "Heavy Equipment Guide",
+    "section1_1": "Heavy Equipment Guide covers the latest industry news, product information and new equipment technologies for the Canadian construction, road - building, and aggregates markets.",
+    "section1_2": "Extensive coverage including the following equipment sectors: earthmoving, asphalt paving, roads & amp; bridges construction, concrete construction, aggregates, cranes, trucks, equipment management, light & amp; compact equipment and the rental market.",
+    "title2": "What You Get",
+    "section2_1": "Our newsletter includes information about newly released equipment and technologies for the construction, road building and aggregates industries.",
+    "section2_2": "You will also get up to date industry news, product introductions, along with information about manufacturers, distributors and rental outlets.",
+    "subscribe": "Subscribe"
+  },
+  "RegistrationMagazine": {
+    "title": "Magazine Subscription",
+    "newsletter": "Covering the latest industry news, product information and new equipment technologies, this quality insight is delivered weekly to your inbox.",
+    "submit": "Confirm and submit",
+    "cancel_subscription": "Cancel my subscription",
+    "formError": "Form validation error. Please review your information",
+    "submitError": "We're unable to process your request at this time, please check your information and try again",
+    "confirmation_message": "Thank you!<br>Your subscription info has been updated",
+    "return_to_magazine": "Return to magazine",
+    "ok": "Ok",
+    "register_form": {
+      "initial": {
+        "title": "Hi! What would you like to do?",
+        "unsub": "Unsubscribe",
+        "option1": "Subscribe",
+        "option2": "Renew my subscription"
+      },
+      "format": {
+        "title": "Please tell us in which format you would like to receive your copies of {title}.",
+        "as": "Format",
+        "option1": "Print Edition <br> <small>(Free for Canada Only)</small>",
+        "option2": "Digital Edition",
+        "option3": "Both!"
+      },
+      "email": {
+        "title": "Would you like to receive renewal reminders via e-mail in the future?",
+        "as": "E-mail Renewal",
+        "option1": "Yes",
+        "option2": "No thanks"
+      },
+      "info": {
+        "title": "We will now need some information about you.",
+        "option1": "First Name",
+        "option2": "Last Name",
+        "option3": "Company Name",
+        "option4": "Job Title",
+        "option5": "Email",
+        "option6": "Phone",
+        "option7": "Fax <sup>(optional)</sup>"
+      },
+      "address": {
+        "title": "What is your mailing address?",
+        "option1": "Street Address",
+        "option2": "City",
+        "option3": "Province / State / Region",
+        "option4": "Postal / Zip Code"
+      },
+      "business_rpn": {
+        "option1": "Government",
+        "option2": "Private Sector Waste & Recycling Processor",
+        "option3": "Waste & Recycling Material Sources",
+        "option4": "Construction & Demolition",
+        "option5": "Consultants & Institutions",
+        "option6": "Manufacturer & Distributor"
+      },
+      "business": {
+        "title": "Which best describes the primary business activity of your firm?",
+        "as": "Primary Business",
+        "other": "Other",
+        "option1": "Heavy Construction Contractors",
+        "option2": "Oil & Gas",
+        "option3": "Aggregate Quarry Producers",
+        "option4": "Special Trade Contractors",
+        "option5": "Utilities - Water, Power, Telecommunications",
+        "option6": "Sand & Gravel Producers",
+        "option7": "Paving & Road Building",
+        "option8": "Building Contractors",
+        "option9": "Forestry & Logging",
+        "option10": "Mining",
+        "option11": "Structural Steel Contractors",
+        "option12": "Concrete / Cement producers",
+        "option13": "Demolition & Recycling",
+        "option_other": "Other (Please specify)"
+      },
+      "sales": {
+        "title": "What are your firm's average annual sales? (optional)",
+        "as": "Firm's Sales",
+        "option1": "Under $500,000",
+        "option2": "$500,000 - $1 million",
+        "option3": "$1 million - $5 million",
+        "option4": "$5 million - $10 million",
+        "option5": "$19 million - $25 million",
+        "option6": "Over $25 million"
+      },
+      "job": {
+        "title": "What best describes your job function? (optional)",
+        "as": "Job Function",
+        "other": "Other",
+        "option1": "Management",
+        "option2": "Supervisory",
+        "option3": "Engineering",
+        "option4": "Design",
+        "option5": "Maintenance",
+        "option6": "Other (Please specify)"
+      },
+      "newsletter": {
+        "title": "Would you like to subscribe today to our Newsletter?",
+        "as": "Newsletter Subscribe",
+        "option1": "Yes!",
+        "option2": "No thanks"
+      },
+      "signature": {
+        "title": "Instead of a signature, please answer the following question:",
+        "option1": "What is the first letter of the city of your birth?"
+      },
+      "cancellation": {
+        "title": "We will now need some information about you.",
+        "option1": "First Name",
+        "option2": "Last Name",
+        "option3": "Company Name",
+        "option4": "Job Title",
+        "option5": "Email",
+        "option6": "Phone",
+        "option7": "Fax <sup>(optional)</sup>"
+      }
+    }
+  },
+  "DigitalEdition": {
+    "title": "Heavy Equipment Guide",
+    "subtitle": "Covering the latest industry news, product information and new equipment technologies",
+    "subscribe": "Subscribe",
+    "renew": "Renew",
+    "view_digital": "View the Digital Edition",
+    "view_all_past_issues": "View all past issues",
+    "more_info": "More info"
+  },
+  "LeadGen": {
+    "company_message": "A message from",
+    "title": "How to get the most from your hydraulic system",
+    "text": "<p>With the right attachments in your lineup, a machine’s hydraulics allow it to become a versatile part of your crew. Make a plan to protect the most expensive and vital components of your machine today.</p><p>What are the biggest factors you need to consider when purchasing attachments? What can shorten the life of (or even completely wipe out) hydraulic components, and how can you protect against it? Download the white paper for the answers and some quick tips. A little preventive maintenance goes a long way when it comes to getting maximum performance and versatility out of today’s highly sophisticated hydraulic machines.</p>",
+    "visit_the": "Visit ",
+    "visit_website": "Takeuchi website",
+    "or": "or",
+    "click_here": "click here",
+    "to_request_more_info": "to request more information.",
+    "form_title": "Get your whitepaper!",
+    "first_name": "first name",
+    "last_name": "last name",
+    "postal_code": "postal code",
+    "yes_no": "yes or no",
+    "choose_option": "Please choose an option.",
+    "enter_first_name": "Enter your first name",
+    "enter_last_name": "Enter your last name",
+    "enter_company": "Enter your company",
+    "enter_email": "Enter your email",
+    "enter_phone": "Enter your phone",
+    "enter_postal_code": "Enter your postal code",
+    "enter_company_name": "Enter your company name",
+    "enter_job_title": "Enter your job title",
+    "enter_address": "Enter your address",
+    "enter_city": "Enter your city",
+    "enter_country": "Enter your country",
+    "company": "company",
+    "email": "email",
+    "phone": "phone",
+    "company_name": "company name",
+    "job_title": "job title",
+    "address": "address",
+    "city": "city",
+    "country": "country",
+    "option_1": "Have you purchased an excavator, track loader, skid steer loader or wheel loader in the past?",
+    "option_2": "Are you planning to purchase an excavator, track loader, skid steer loader or wheel loader in the next 6 months? *",
+    "yes": "Yes",
+    "no": "No",
+    "privacy_agreement": "By submitting this form you agree on our media partners and our <a href='/privacy-statement' target='blank'>Privacy Policies and Terms & Conditions</a>.",
+    "submit": "Get the full whitepaper",
+    "submit_pending": "Please wait",
+    "submit_error": "An error occurred while submitting your information, please try again later.",
+    "submit_success": "Your data has been submitted successfully, you'll receive your whitepaper shortly.",
+    "request_again": "Click here to request the whitepaper again.",
+    "enter_number_equipment": "Number of pieces equipment in fleet",
+    "number_equipment": {
+      "1-10": "1 - 10",
+      "11-50": "11 - 50",
+      "51-300": "51 - 300",
+      "301+": "301+"
+    }
+  },
+  "Header": {
+    "search": "Search",
+    "articles": "News",
+    "news": "News",
+    "videos": "Videos",
+    "products": "Products",
+    "companies": "Companies",
+    "newsletter": "Newsletter",
+    "magazine": "Magazine",
+    "Topics": {
+      "newstopics": "By News Topic",
+      "product_categories": "By Product Category",
+      "companies": "By Company",
+      "company_types": "By Company Type"
+    }
+  },
+  "Search": {
+    "search_for": "Search for Articles, Products and Companies",
+    "search_for_articles": "Search for articles",
+    "search_for_products": "Search for products",
+    "search_for_specific":  "Search for",
+    "search_for_companies": "Search for companies",
+    "advanced": "Advanced search",
+    "such_as": "Such as:",
+    "no_results_for": "There is no results for:",
+    "no_results_info1": "Please check the spelling or start a new search.",
+    "no_results_info2": "You can search by: <strong>Articles, Products</strong> and <strong>Companies</strong>.",
+    "advanced_search": "Advanced search",
+    "alpha_order": "From A to Z",
+    "filter_by": "Filter By"
+  },
+  "Products": {
+    "categories": "Categories"
+  },
+  "Companies": {
+    "featured": "Featured companies",
+    "more_news": "More news"
+  },
+  "Privacy": {
+    "privacy_statement": "Privacy Statement"
+  },
+  "Footer": {
+    "advertise_with_us": "Advertise With Us",
+    "site_powered_by": "Powered by",
+    "ax2_inc": "AX2 Inc"
+  },
+  "Articles": {
+    "by": "By"
+  },
+  "Meta": {
+    "magazine_description": "Subscribe or view current and past issues of the Magazine. The magazine covers the latest industry news, product information and new equipment technologies.",
+    "newsletter_description": "Stay connected and get our extensive coverage for construction professionals who buy, operate, manage and maintain equipment.",
+    "product_description": "Products and new equipment technologies for the construction, road-building, and aggregates markets. Products covered: earthmoving, concrete construction, aggregates, cranes, trucks, and much more.",
+    "company_description": "Directory of companies for the heavy equipment industry. Companies covered include: Caterpillar, John Deere, Hitachi, Volvo, Case, Hyundai, Kobelco, Komatsu and more.",
+    "latest_description": "Never miss a piece of news. Read all the latest articles published on ",
+    "videos_description": "Never miss a video news. Watch all the latest videos published on ",
+    "topic_description": " covers the latest news about "
+  }
+}
