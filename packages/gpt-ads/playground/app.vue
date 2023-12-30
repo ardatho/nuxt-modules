@@ -1,21 +1,14 @@
 <template>
-  <div>
-    Nuxt module playground!
-  </div>
-
-  <br> 1st set of big box <br>
-  big box 1
-  <br>
-  <client-only>
-    <GptAd
-      v-bind="gptAdOptions"
-    />
-  </client-only>
+  <header>
+    <nav>
+      <ul>
+        <li><NuxtLink to="/">Home</NuxtLink></li>
+        <li><NuxtLink to="/ads">Ads page</NuxtLink></li>
+      </ul>
+    </nav>
+  </header>
+  <NuxtPage />
 </template>
 
 <script setup>
-const gptAdOptions = {
-  adUnit: 'HEG-BIGBOX1',
-  size: '300x250,300x600',
-}
 </script>

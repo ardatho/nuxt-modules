@@ -33,12 +33,13 @@ export default defineNuxtModule<ModuleOptions>({
 
     addTemplate({ filename: 'gptads-config.mjs', getContents: () => `export default ${JSON.stringify(templatesOptions, null, 2)}` })
 
-    // Do not add the extension since the `.ts` will be transpiled to `.mjs` after `npm run prepack`
-    addPlugin(resolver.resolve('./runtime/plugin'))
-
     addComponent({
       name: templatesOptions.componentName,
       filePath: resolver.resolve('./runtime/component')
     })
+
+    // Do not add the extension since the `.ts` will be transpiled to `.mjs` after `npm run prepack`
+    addPlugin(resolver.resolve('./runtime/plugin'))
+
   }
 })

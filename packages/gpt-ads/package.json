@@ -5,6 +5,9 @@
   "repository": "https://github.com/ardatho/nuxt-modules",
   "license": "MIT",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "types": "./dist/types.d.ts",
