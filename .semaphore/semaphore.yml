@@ -1,0 +1,28 @@
+version: v1.0
+name: Test & lint
+agent:
+  machine:
+    type: e1-standard-2
+    os_image: ubuntu2004
+fail_fast:
+  stop:
+    when: "branch != 'master'"
+blocks:
+  - name: Test & lint
+    task:
+      secrets:
+        - name: ardatho_generic
+      prologue:
+        commands:
+          - checkout
+          - sem-version node 18
+          - npm ci
+      jobs:
+        # - name: Unit Tests
+        #   commands:
+        #     - yarn test
+        - name: Lint
+          commands:
+            - npx lerna run lint
+            - npx lerna run test
+            - npx lerna run prepack
