@@ -6,7 +6,7 @@ const rpn = require('./config/rpn');
 
 export default defineNuxtConfig({
   modules: ['../src/module'],
-  multisite: {
+  '@ardatho/multisite': {
     debug: ['development', 'test'].includes(appEnv),
     sites: [
       heg,

@@ -1,13 +1,4 @@
-<!--
-Get your module up and running quickly.
-
-Find and replace all on all files (CMD+SHIFT+F):
-- Name: My Module
-- Package name: my-module
-- Description: My new Nuxt module
--->
-
-# My Module
+# Multisite nuxt module
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -29,25 +20,25 @@ My new Nuxt module for doing amazing things.
 
 ## Quick Setup
 
-1. Add `my-module` dependency to your project
+1. Add `@ardatho/multisite` dependency to your project
 
 ```bash
 # Using pnpm
-pnpm add -D my-module
+pnpm add -D @ardatho/multisite
 
 # Using yarn
-yarn add --dev my-module
+yarn add --dev @ardatho/multisite
 
 # Using npm
-npm install --save-dev my-module
+npm install --save-dev @ardatho/multisite
 ```
 
-2. Add `my-module` to the `modules` section of `nuxt.config.ts`
+2. Add `@ardatho/multisite` to the `modules` section of `nuxt.config.ts`
 
 ```js
 export default defineNuxtConfig({
   modules: [
-    'my-module'
+    '@ardatho/multisite'
   ]
 })
 ```

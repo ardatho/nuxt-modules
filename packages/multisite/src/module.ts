@@ -1,7 +1,5 @@
 import { defineNuxtModule, addPlugin, createResolver, addTemplate } from '@nuxt/kit'
 
-import { resolve } from 'path';
-
 import {
   DEFAULT_OPTIONS,
   QUERY_SITE_ID_KEY,
@@ -14,8 +12,8 @@ export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: 'multisite',
-    configKey: 'multisite'
+    name: '@ardatho/multisite',
+    configKey: '@ardatho/multisite'
   },
   // Default configuration options of the Nuxt module
   defaults: {},
