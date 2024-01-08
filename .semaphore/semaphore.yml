@@ -16,7 +16,7 @@ blocks:
         commands:
           - checkout
           - sem-version node 18
-          - npm install --no-optional
+          - npm install --omit=optional
       jobs:
         # - name: Unit Tests
         #   commands:
