@@ -16,7 +16,7 @@ blocks:
         commands:
           - checkout
           - sem-version node 18
-          - npm ci
+          - npm install
       jobs:
         # - name: Unit Tests
         #   commands:
